@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=
-	  개발자 취업을 희망하는 이지훈 입니다&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=
+	  개발자 취업을 희망하는 이지훈 입니다&fontSize=50" />
 <div align="center">
 	<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
