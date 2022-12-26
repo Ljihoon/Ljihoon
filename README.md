@@ -25,10 +25,10 @@
 <div align="center">
 	<h2>📮SNS & PortFolio📮</h2>
 	<br><br>
-	<a href="iops_glny@naver.com">
-		<img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white" />
+	<a href="https://ljhportfoliohome.modoo.at">
+		<img src="https://img.shields.io/badge/PortFolio-EA4335?style=flat&logo=Starship&logoColor=white" />
 	</a>
-	<img src="https://img.shields.io/badge/PortFolio-EA4335?style=flat&logo=Starship&logoColor=white" />
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ljihoon&layout=compact"><br><br>
