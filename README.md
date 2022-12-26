@@ -1,4 +1,4 @@
-### Hi there 👋
+### 개발자 취업을 희망하는 이지훈입니다 👋
 
 <!--
 **Ljihoon/Ljihoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
