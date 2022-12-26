@@ -1,5 +1,8 @@
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=개발자&nbsp;취업을&nbsp;희망하는&nbsp;이지훈&nbsp;입니다&fontSize=50" />
-
+</div>
+<br><br>
+<h3 align="center">안녕하세요 현재 이젠학원에서 Front&Back-End 풀스택 과정을 열심히 밟고 있는 이지훈 입니다</h3>
 <br><br>
 <div align="center">
 	<h2>📚Tech Stack📚</h2>
@@ -25,7 +28,7 @@
 <div align="center">
 	<h2>📮SNS & PortFolio📮</h2>
 	<br><br>
-	<img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white" />
+	<img src="https://img.shields.io/badge/iops_glny@naver.com-EA4335?style=flat&logo=Gmail&logoColor=white" />
 	<a href="https://ljhportfoliohome.modoo.at">
 		<img src="https://img.shields.io/badge/PortFolio-EA4335?style=flat&logo=Starship&logoColor=white" />
 	</a>
